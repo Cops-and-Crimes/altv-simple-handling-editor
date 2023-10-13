@@ -1,0 +1,39 @@
+html{
+    font-family: monospace;
+}
+
+body{
+    display: flex;
+}
+
+#container{
+    width: 30vw;
+    height: 80vh;
+    margin-left: 2vw;
+    margin-top: 10vh;
+    background-color: rgba(128, 128, 128, .5);
+    padding: 1vw;
+    border-radius: 0.5vw;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.case{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    padding: 1vw;
+    border-radius: 0.5vw;
+    margin-bottom: 0.25vw;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    color: white
+}
+input[type=number]{
+    margin: 0.25vw 0;
+    text-align: center;
+    padding: 0.3vw;
+}
