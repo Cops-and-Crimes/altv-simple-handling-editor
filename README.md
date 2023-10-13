@@ -1,4 +1,4 @@
-![NJVzz5S](https://github.com/Cops-and-Crimes/altv-simple-handling-editor/assets/53814896/7d24d996-cccd-4676-837f-eacfd69f2d30)
+![NJVzz5S](https://github.com/Cops-and-Crimes/altv-simple-handling-editor/assets/53814896/57a67efe-205d-40e4-933f-63a6abed46cb)
 
 # Simple HandligEditor
 
